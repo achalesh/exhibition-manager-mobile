@@ -1,0 +1,4 @@
+"id","username","password","role"
+"1","admin","$2b$10$OjmU5Nu45JCV/akkhFHiceOZ.SiOrHz3.zjnxMCxBHUo1HxJMGbkC","admin"
+"2","User","$2b$10$MVj1pspkM2CvWAgT/aLCNOVxxrIRrPOUEIyWsW18ajTc6I3oBxmMK","user"
+"68","sanjay","$2b$10$8N4uLYQ7xkqfgmDpOoKIC.SIXkBAChlw0Lwh7mRW9dUgRf2LCfuam","material_handler"

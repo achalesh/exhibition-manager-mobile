@@ -1,0 +1,2 @@
+"id","staff_id","event_session_id","settlement_date","expected_amount","actual_amount","difference","notes","status","settled_by_user_id","settled_on_date"
+"5","12","1","2025-11-14","2850","2950","100","Excess","unsettled",,

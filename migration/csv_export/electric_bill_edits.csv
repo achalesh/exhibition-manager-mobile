@@ -1,0 +1,2 @@
+"id","electric_bill_id","user_id","username","proposed_data","status","request_date","rejection_reason","user_notified"
+"1","10","2","User","{""booking_id"":""1"",""sl_no"":""478"",""remarks"":"""",""total_amount"":""15000.00"",""items"":""[{\""id\"":\""375\"",\""name\"":\""5 AMP Plug Point\"",\""quantity\"":5,\""service_charge\"":3000,\""fitting_charge\"":0,\""total\"":15000}]""}","rejected","2025-10-13 13:39:26","1500","1"

@@ -1,0 +1,2 @@
+"id","payment_id","user_id","username","proposed_data","status","request_date","rejection_reason","user_notified"
+"1","112","2","User","{""payment_type"":""Rent"",""receipt_number"":""936"",""payment_date"":""2025-10-12"",""amount_paid"":""150000""}","rejected","2025-10-13 13:28:09","15000","1"
