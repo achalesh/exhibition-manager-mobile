@@ -1,0 +1,23 @@
+exhibition-manager-mobile/
+├─ backend/
+│  ├─ Dockerfile
+│  ├─ package.json
+│  ├─ knexfile.js
+│  ├─ migrations/
+│  ├─ seeds/
+│  └─ src/
+│     ├─ index.js
+│     ├─ db.js
+│     ├─ auth.js
+│     └─ routes/
+├─ frontend/
+│  ├─ package.json
+│  ├─ public/
+│  │  ├─ manifest.json
+│  │  ├─ sw.js
+│  │  └─ icons/
+│  └─ src/
+│     ├─ main.jsx
+│     └─ App.jsx
+├─ docker-compose.yml
+└─ README.md
